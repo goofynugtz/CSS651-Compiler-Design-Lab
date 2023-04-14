@@ -1,0 +1,11 @@
+1) Compute FIRST and FOLLOW of the following CFG.
+
+𝑆 → 𝑎𝐵 | 𝑏𝐶 | 𝑐𝐷
+𝐵 → 𝑑 | 𝜀
+𝐶 → 𝑒 | 𝜀
+𝐷 → 𝑓
+
+S -> aB | bC | cD
+B -> d | y
+C -> e | y
+D -> f

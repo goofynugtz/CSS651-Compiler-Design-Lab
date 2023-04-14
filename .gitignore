@@ -1,0 +1,7 @@
+*.docx
+*.pdf
+zip
+.vscode
+*.out
+*.exe
+old
